@@ -1,0 +1,10 @@
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\bin\Debug\LifeUniverseSPOJsolution.exe.config
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\bin\Debug\LifeUniverseSPOJsolution.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\bin\Debug\LifeUniverseSPOJsolution.pdb
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\bin\Debug\LifeUniverseSPOJsolution.xml
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\obj\Debug\LifeUniverseSPOJsolution.vbprojResolveAssemblyReference.cache
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\obj\Debug\LifeUniverseSPOJsolution.Resources.resources
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\obj\Debug\LifeUniverseSPOJsolution.vbproj.GenerateResource.Cache
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\obj\Debug\LifeUniverseSPOJsolution.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\obj\Debug\LifeUniverseSPOJsolution.xml
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\LifeUniverseSPOJsolution\LifeUniverseSPOJsolution\obj\Debug\LifeUniverseSPOJsolution.pdb
